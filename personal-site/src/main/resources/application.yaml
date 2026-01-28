@@ -1,3 +1,12 @@
 spring:
   application:
     name: personal-site
+
+server:
+  port: ${PORT:8080}
+
+spring:
+  application:
+    name: personal-site
+  thymeleaf:
+    cache: false  # 开发时关闭缓存
