@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: personal-site
-
 server:
   port: ${PORT:8080}
 
