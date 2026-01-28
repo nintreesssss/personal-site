@@ -1,5 +1,5 @@
 # 阶段 1: 构建（用官方 Maven + Java 25 镜像）
-FROM maven:3.9.9-eclipse-temurin-25-jammy AS builder
+FROM maven:3.9.9-eclipse-temurin-21-jammy AS builder
 
 WORKDIR /app
 
