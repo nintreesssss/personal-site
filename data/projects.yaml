@@ -19,6 +19,25 @@
  #   - maxWidth: optional max-width, e.g. "none" or "640px"
 
 items:
+  - title: "Stylized Grass Rendering in Unity"
+    description: "Stylized Grass Rendering in Unity"
+    titleFontSize: "1.4rem"
+    techLines:
+      - "Unity"
+    date: "2026.7"
+    imagesClass: ""
+    images:
+      - src: "/images/projects/GGcom1.png"
+        alt: "Stylized Grass 1"
+        class: "project-image-large"
+        width: "110%"
+        maxWidth: "none"
+      - src: "/images/projects/GGcom2.png"
+        alt: "Stylized Grass 2"
+        class: "project-image-large"
+        width: "110%"
+        maxWidth: "none"
+
   - title: "Guassian-Grouping Project Reproduction"
     link: "https://github.com/lkeab/gaussian-grouping"
     description: "Reproduction of Gaussian-Grouping"
