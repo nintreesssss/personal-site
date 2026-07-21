@@ -38,7 +38,7 @@ items:
         width: "110%"
         maxWidth: "none"
 
-  - title: "Guassian-Grouping Project Reproduction"
+  - title: "Gaussian-Grouping Project Reproduction"
     link: "https://github.com/lkeab/gaussian-grouping"
     description: "Reproduction of Gaussian-Grouping"
     titleFontSize: "1.4rem"
